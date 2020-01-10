@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Threading.Tasks;
 using AutoMapper;
 using Castle.Windsor;
 using Microsoft.AspNet.OData;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using Siemens.Backend.Core.ConfigurationRepository;
 using Siemens.Crosscutting.Utilities.Installer;
 using Test.Poco;
