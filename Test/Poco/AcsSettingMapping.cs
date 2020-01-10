@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+//B1 Changes 1.0
 namespace Test.Poco
 {
     public class AcsSettingMapping
